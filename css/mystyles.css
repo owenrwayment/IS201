@@ -2,5 +2,94 @@ h2{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .darkcolor{
-    background-color: rgb(37, 37, 135) !important;
+    background-color: rgb(33, 85, 106) !important;
+}
+.orangetiein{
+    color: rgb(189, 94, 56) !important;
+}
+.themetext{
+    color: rgb(33, 85, 106) !important;
+}
+a{
+    color: rgb(150, 183, 196) !important;
+}
+a :hover{
+    color: rgb(189, 94, 56) !important;
+}
+.accent{
+    background-color: rgb(189, 94, 56);
+}
+.mypage{
+    right: 10px;
+    text-align: right;
+}
+.allstuff{
+    padding: 5px;
+}
+.footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    text-align: center;
+    background-color: rgba(33, 85, 106, 0.824);
+    color: rgb(150, 183, 196);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-top: 2px rgb(150, 183, 196) solid;
+}
+.cleanlink{
+    text-decoration: none;
+    color: aliceblue !important;
+}
+.navigation{
+    color: rgba(33, 85, 106);
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.customimg{
+    margin: auto;
+    width: 40%;
+    display: block;
+    border: 5px solid  rgb(150, 183, 196);
+}
+.subtitle{
+    padding: 1px;
+    text-decoration: none;
+    font-family: muli, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: block;
+    right: 40px;
+    left: 40px;
+}
+.cleanlink :hover{
+    color: rgb(189, 94, 56);
+    size: 105%;
+}
+.videostyle{
+    margin: auto;
+    display: block;
+    border: 5px solid  rgb(150, 183, 196);
+}
+.description{
+    font-family: muli, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: block;
+    text-align: center;
+    color: white;
+    background-color: rgba(33, 85, 106);
+    border-top: 5px solid rgb(150, 183, 196);
+    border-bottom: 5px solid rgb(150, 183, 196);
+    border-left: 5px solid rgb(150, 183, 196);
+    border-right: 5px solid rgb(150, 183, 196);
+}
+.custombackground{
+    background-image:url(../assets/img/white-triangle-pattern-seamless-background-1-cover.jpg);
+}
+.graph{
+    width: 90%;
+    margin: auto;
+    display: block;
+    border: 5px solid  rgb(150, 183, 196);
+    right: 15px;
+}
+.override{
+    text-align: left;
 }
